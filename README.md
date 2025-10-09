@@ -28,3 +28,6 @@ Enjoys Coffee | Lifelong Leaner | Developer
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) &nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) &nbsp;
 
+---
+
+<p align="right">“Are You A One Or A Zero?” — Mr. Robot</p>
