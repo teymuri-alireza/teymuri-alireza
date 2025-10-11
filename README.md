@@ -5,7 +5,7 @@
 **Computer Engineering Student**
 
 
-Enjoys Coffee | Lifelong Leaner | Developer
+Enjoys Coffee | Lifelong Learner | Developer
 
 <!-- <img src="img/Anime-Gifs.gif" height="220px"/> -->
 
