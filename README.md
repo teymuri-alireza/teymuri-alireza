@@ -1,17 +1,17 @@
-<div align="center">
+<!--div align="center">
 
 # Hi There
 
 **Computer Engineering Student**
 
 
-Enjoys Coffee | Lifelong Learner | Developer
+Enjoys Coffee | Lifelong Learner | Developer-->
 
 <!-- <img src="img/Anime-Gifs.gif" height="220px"/> -->
 
 <!-- original source for gif: https://i.pinimg.com/originals/6e/8d/0b/6e8d0b94a946a0068a445e7a714edcf1.gif -->
 
-</div>
+<!--/div>
 
 ### Tech & Tools I use:
 
@@ -28,6 +28,6 @@ Enjoys Coffee | Lifelong Learner | Developer
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) &nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) &nbsp;
 
----
+--->
 
-<p align="right">“Are You A One Or A Zero?” — Mr. Robot</p>
+<p align="center">“Are You A One Or A Zero?” — Mr. Robot</p>
